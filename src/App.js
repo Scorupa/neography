@@ -1,23 +1,18 @@
-import logo from './logo.svg';
 import './App.css';
+import GithubCorner from 'react-github-corner';
+import Generator from './Generator';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <GithubCorner
+        href={"https://github.com/Scorupa/neography"}
+        bannerColor="#C44A41"
+        octoColor="#fff"
+        size={80}
+        direction="left"
+      />
+      <Generator />
     </div>
   );
 }
