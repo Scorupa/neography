@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/neography/static/css/main.a617e044.chunk.css",
+    "main.js": "/neography/static/js/main.a213b048.chunk.js",
+    "main.js.map": "/neography/static/js/main.a213b048.chunk.js.map",
+    "runtime-main.js": "/neography/static/js/runtime-main.58594704.js",
+    "runtime-main.js.map": "/neography/static/js/runtime-main.58594704.js.map",
+    "static/js/2.79acff81.chunk.js": "/neography/static/js/2.79acff81.chunk.js",
+    "static/js/2.79acff81.chunk.js.map": "/neography/static/js/2.79acff81.chunk.js.map",
+    "static/js/3.32b7ba6c.chunk.js": "/neography/static/js/3.32b7ba6c.chunk.js",
+    "static/js/3.32b7ba6c.chunk.js.map": "/neography/static/js/3.32b7ba6c.chunk.js.map",
+    "index.html": "/neography/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/neography/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.79acff81.chunk.js.LICENSE.txt": "/neography/static/js/2.79acff81.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58594704.js",
+    "static/js/2.79acff81.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.a213b048.chunk.js"
+  ]
+}
